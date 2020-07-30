@@ -39,8 +39,9 @@
   <img src =".\public\images\phaseOneHomePage.png" width="400">
 
   Deployed: <br>
+  <img src =".\public\images\ggtogether.png" width="400">
   <img src =".\public\images\deployed.png" width="400">
-  
+
   ## Link to Deployed Application
   https://gitgudtogether.herokuapp.com/
 
