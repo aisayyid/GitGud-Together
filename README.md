@@ -40,6 +40,7 @@
 
   Deployed: <br>
   <img src =".\public\images\ggtogether.png" width="400">
+  
   <img src =".\public\images\deployed.png" width="400">
 
   ## Link to Deployed Application
